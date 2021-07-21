@@ -1,27 +1,28 @@
-# Live5Front
+# Projeto-Dio-Live :five: :rocket: (FRONTEND)​
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
+#### INICIO
 
-## Development server
+Fala pessoal! Esta é a segunda parte do projeto da quinta live oferecido pela digital innovation one. O objetivo do projeto é montar um gerenciador de salas de reuniões utilizando os recursos do java + angular.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+A primeira parte deste projeto está no repositório Projeto-Dio-Live5 (https://github.com/Amorim-cyber/Projeto-Dio-Live5), lá foi desenvolvido o backend da aplicação utilizando o spring, java e o banco de dados H2.
 
-## Code scaffolding
+O desafio dentro deste repositório é criar a parte frontend do projeto utilizando o Angular.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Tenho aprendido muito com os projetos :smile:
 
-## Build
+Gratidão por todo esse conhecimento compartilhado.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Muito obrigado!
 
-## Running unit tests
+#### TRILHA
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Segue o passo a passo mais detalhado do projeto.
 
-## Running end-to-end tests
+<div style="background-color: #E8E8E8; border-radius: 3px;">
+   <p><strong>PRIMEIRO COMMIT</strong></p>
+    <ul>
+        <li><strong>PARTE 8:</strong> Preparando o ambiente, utilizando o comando ng new live5_front dentro de nosso terminal para criar nossa aplicação angular frontend.</li>
+    </ul>
+    <br>
+</div> 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
