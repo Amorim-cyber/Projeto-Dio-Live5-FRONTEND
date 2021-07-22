@@ -15,7 +15,7 @@ export class CreateRoomComponent implements OnInit {
 
   constructor(private roomService: RoomService, private router: Router) { }
 
-  ngOnInit():{
+  ngOnInit(){
 
   }
 

@@ -14,6 +14,36 @@ Gratidão por todo esse conhecimento compartilhado.
 
 Muito obrigado!
 
+#### TECHS UTILIZADAS
+
+* Angular
+* Bootstrap
+* IDE Visual Studio Code (ou outra opção se preferir)
+
+#### INSTRUÇÕES
+
+Para rodar o projeto localmente em sua maquina siga os seguintes passos:
+
+1. Baixe os arquivos deste repositório
+
+2. Execute o comando `ng serve` em seu terminal dentro do diretório deste projeto
+
+   <img src="img/passo2.PNG" style="border: solid grey; border-radius:4px"></img>
+
+3. Digite `http://localhost:4200/rooms`  no seu navegador.
+
+   <img src="img/passo3.PNG" style="border: solid grey; border-radius:4px"></img>
+
+4. Rode o backend do programa (https://github.com/Amorim-cyber/Projeto-Dio-Live5) para o front ter acesso a edição dos dados. **O projeto não irá iniciar de forma correta se você pular este passo**.
+
+5. É crucial que os dois serviços(backend e angular) estejam online.
+
+#### PRONTO
+
+A aplicação está pronta para uso.
+
+<img src="img/fim.PNG" style="border: solid grey; border-radius:4px"></img>
+
 #### TRILHA
 
 Segue o passo a passo mais detalhado do projeto.
@@ -64,4 +94,18 @@ Segue o passo a passo mais detalhado do projeto.
     </ul>
     <br>
 </div>
+
+<div style="background-color: #E8E8E8; border-radius: 3px;">
+   <p><strong>COLOCANDO ROTAS + CORRIGINDO ERROS + CONFIGURAÇÕES FINAIS + TESTES</strong></p>
+    <ul>
+        <li><strong>PARTE 14:</strong> Mexendo no arquivo de rotas app-routing.module. Definindo todas as rotas da aplicação. Importando HttpClientModule e o FormsModule para dentro do app.module. Mudando o titulo da aplicação dentro do arquivo app.component.ts e index.html. Configurando o arquivo polyfills.ts.Os erros apresentados apresentados em commits passados foram solucionados. Colocando a estrutura HTML no arquivo app.component.html. Vendo se não houve erros da aplicação por meio do comando de inicialização ng serve. Conectando ao backend da aplicação (https://github.com/Amorim-cyber/Projeto-Dio-Live5) para realizar os testes de HTTP. </li>
+    </ul>
+    <br>
+</div>
+
+FIM DA TRILHA 
+
+
+
+#### Forte abraço! :smile:
 
