@@ -33,11 +33,18 @@ Segue o passo a passo mais detalhado do projeto.
     </ul>
     <br>
 </div> 
-
 <div style="background-color: #E8E8E8; border-radius: 3px;">
    <p><strong>CRIANDO O ARQUIVO room.ts E ESTRUTURANDO O COMPONENTE room-list</strong></p>
     <ul>
-        <li><strong>PARTE 10:</strong> Criando o arquivo room.ts, é neste arquivo que vamos receber os dados do backend. Declarando os atributos no arquivo. Montando a estrutura HTML do componente room-list. Importando arquivos externos para dentro do arquivo room-list.component.ts. Incluindo atributos, preenchendo o construtor e criando metodos para o arquivo room-list.component.ts. Esse commit em específico terá alguns erros visto que alguns metodos e atributos de classes externas ainda não foram criados.</li>
+        <li><strong>PARTE 10:</strong> Criando o arquivo room.ts, é neste arquivo que vamos receber os dados do backend. Declarando os atributos no arquivo. Montando a estrutura HTML do componente room-list. Importando arquivos externos para dentro do arquivo room-list.component.ts. Incluindo atributos, preenchendo o construtor e criando metodos para o arquivo room-list.component.ts. Esse commit terá alguns erros visto que alguns metodos e atributos de classes externas ainda não foram criados.</li>
+    </ul>
+    <br>
+</div> 
+
+<div style="background-color: #E8E8E8; border-radius: 3px;">
+   <p><strong>ESTRUTURANDO O COMPONENTE create-room</strong></p>
+    <ul>
+        <li><strong>PARTE 11:</strong> Criando a estruta HTML do componente create-room. Importando arquivos externos para dentro do arquivo create-room.component.ts por meio do import. Preenchedo o construtor e criando atributos e metodos para o arquivo create-room.component.ts. Esse commit terá alguns erros visto que alguns metodos e atributos de classes externas ainda não foram criados. </li>
     </ul>
     <br>
 </div> 
