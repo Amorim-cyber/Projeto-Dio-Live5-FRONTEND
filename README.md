@@ -57,3 +57,11 @@ Segue o passo a passo mais detalhado do projeto.
     <br>
 </div> 
 
+<div style="background-color: #E8E8E8; border-radius: 3px;">
+   <p><strong>ESTRUTURANDO O SERVIÇO room.service E O COMPONENTE room-details</strong></p>
+    <ul>
+        <li><strong>PARTE 13:</strong> Colocando o conteudo HTML do componente room-details. Importando os arquivos externos para dentro do room-details.component.ts e populando atributos e metodos. Populando atributos e metodos para o room.service. Importando os arquivos. Esse commit terá alguns erros visto que alguns metodos e atributos de classes externas ainda não foram criados. </li>
+    </ul>
+    <br>
+</div>
+
