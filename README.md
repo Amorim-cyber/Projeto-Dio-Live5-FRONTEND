@@ -49,3 +49,11 @@ Segue o passo a passo mais detalhado do projeto.
     <br>
 </div> 
 
+<div style="background-color: #E8E8E8; border-radius: 3px;">
+   <p><strong>ESTRUTURANDO O COMPONENTE update-room</strong></p>
+    <ul>
+        <li><strong>PARTE 12:</strong> Criando o HTML do component update-room. Importando arquivos externos aos arquivo update-room.component.ts e colocando atributos e metodos. Esse commit terá alguns erros visto que alguns metodos e atributos de classes externas ainda não foram criados. </li>
+    </ul>
+    <br>
+</div> 
+
